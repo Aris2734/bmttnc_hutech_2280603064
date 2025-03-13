@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Lab02/ex02/cipher",
+        "./Lab02/ex02/cipher/vigenere"
+    ]
+}
